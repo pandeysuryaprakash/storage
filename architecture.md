@@ -1,6 +1,4 @@
-# System Design Architecture Document
-
-  * **Project Name:** Flash Sale E Commerce Platform
+# Flash Sale E Commerce Platform
   * **Team Name:** Code Catalyst
   * **Date:** 06/11/2025
   * **Prepared By:**
@@ -111,7 +109,7 @@ Our e-commerce system will consist of several independent microservices, an API 
 
 ### 3.2 UML DIAGRAM
 
-[Image of: High-Level UML Diagram showing data flow from Clients to Microservices and Data Stores]
+![Image of: High-Level UML Diagram showing data flow from Clients to Microservices and Data Stores](3.2.jpg)
 
 ### 3.3 Service Breakdown
 
@@ -216,7 +214,7 @@ CREATE TABLE inventory_reservations (
 
 ### 4.6 DATA FLOW DIAGRAM
 
-[Image of: Data Flow Diagram - Flash Sale Checkout Process]
+![Image of: Data Flow Diagram - Flash Sale Checkout Process](4.6.png)
 
 -----
 
@@ -277,7 +275,7 @@ These APIs are used by internal staff, secured by strong role-based access contr
 
 ### 5.2 UML Component Diagram
 
-[Image of: UML Component Diagram: .NET Core E-commerce Backend]
+![Image of: UML Component Diagram: .NET Core E-commerce Backend](5.2.png)
 
 ### 5.3 API Gateway and Request Flow
 
@@ -338,7 +336,7 @@ order-service/
 
 ### 5.5 Request Processing Flow
 
-[Image of: Request Processing Flow sequence diagram]
+![Image of: Request Processing Flow sequence diagram](5.5.jpg)
 
 ### 5.6 EVENT DRIVEN ARCHITECTURE
 
@@ -530,7 +528,7 @@ graph TD
 
 ### 10.3 UML Deployment & Component
 
-[Image of: UML Deployment & Component diagram for Production Environment]
+![Image of: UML Deployment & Component diagram for Production Environment](10.3.jpg)
 
 ### 10.4 Infrastructure as Code (IaC)
 
