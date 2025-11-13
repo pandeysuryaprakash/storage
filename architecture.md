@@ -528,7 +528,7 @@ graph TD
 
 ### 10.3 UML Deployment & Component
 
-![Image of: UML Deployment & Component diagram for Production Environment](10.3.jpg)
+![Image of: UML Deployment & Component diagram for Production Environment](10.3.png)
 
 ### 10.4 Infrastructure as Code (IaC)
 
