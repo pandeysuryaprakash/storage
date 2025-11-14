@@ -212,10 +212,6 @@ CREATE TABLE inventory_reservations (
   * [Order Confirmation]: Message back to Customer
   * [OrderConfirmed Event]: (OrderID, Status, PaymentTxnID, etc.)
 
-### 4.6 DATA FLOW DIAGRAM
-
-![Image of: Data Flow Diagram - Flash Sale Checkout Process](4.6.png)
-
 -----
 
 ## 5\. API DESIGN
